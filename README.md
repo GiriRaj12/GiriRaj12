@@ -18,29 +18,31 @@
 ### 🛠️ Tech Stack
 
 **Development**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,spring,js,ts,nestjs,nextjs,ember,express,nodejs,py,django,react,angular,svelte,go,rails,bash,postgres,mongodb,mysql,rabbitmq,redis&perline=8" />
 </p>
 
 **DevOps**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins,git,github&perline=8" />
 </p>
 
 **Infrastructure**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=openshift,oracle,aws,gcp,azure&perline=8" />
 </p>
 
 **LLM / AI**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,opencv&perline=8" />
 </p>
 
 **Operating Systems**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,apple,arduino,raspberrypi&perline=8" />
 </p>
+
+
 ---
 
 ### 🌐 Connect with me

@@ -19,7 +19,7 @@
 
 **Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,js,ts,nestjs,nextjs,ember,express,nodejs,py,django,react,angular,svelte,go,rails,bash,postgres,mongodb,mysql,rabbitmq,redis&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,js,ts,nestjs,nextjs,ember,express,nodejs,py,django,react,angular,svelte,go,rails,bash,postgres,mongodb,mysql,rabbitmq,redis&perline=16" />
 </p>
 
 **DevOps**
@@ -29,7 +29,7 @@
 
 **Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=openshift,oracle,aws,gcp,azure&perline=8" />
+  <img src="https://skillicons.dev/icons?i=openshift,aws,gcp,azure&perline=8" />
 </p>
 
 **LLM / AI**

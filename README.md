@@ -19,7 +19,7 @@
 
 **Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,js,ts,nestjs,nextjs,ember,express,nodejs,py,django,react,angular,svelte,go,rails,bash,postgres,mongodb,mysql,rabbitmq,redis&perline=16" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,js,ts,nestjs,nextjs,ember,express,nodejs,py,django,react,angular,svelte,vite,go,rails,bash,postgres,mongodb,mysql,rabbitmq,redis&perline=16" />
 </p>
 
 **DevOps**
@@ -34,7 +34,7 @@
 
 **LLM / AI**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,langchain,opencv&perline=8" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
 </p>
 
 **Operating Systems**

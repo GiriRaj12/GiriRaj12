@@ -53,4 +53,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="http://developergiri.netlify.app/">
+    <img src="https://img.shields.io/badge/Personal%20Website-8A2BE2" />
+  </a>
+</p>
+
 <p align="center"><i>I'm quite active on LinkedIn — feel free to reach out!</i></p>

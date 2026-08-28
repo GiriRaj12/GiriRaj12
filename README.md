@@ -51,9 +51,6 @@
   <a href="https://www.linkedin.com/in/giriraj-12/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="http://developergiri.netlify.app/">
     <img src="https://img.shields.io/badge/Personal%20Website-8A2BE2" />
   </a>
